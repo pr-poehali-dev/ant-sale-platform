@@ -1,5 +1,6 @@
 
 import AntCard from "@/components/AntCard";
+import { Button } from "@/components/ui/button";
 
 const POPULAR_ANTS = [
   {
